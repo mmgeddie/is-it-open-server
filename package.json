@@ -1,0 +1,19 @@
+{
+  "name": "is-it-open",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  	"start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Geddie",
+  "license": "MIT",
+    "dependencies": {
+    "express": "^4.12.2",
+    "haraka": "^2.6.0"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
