@@ -5,14 +5,12 @@
   "main": "index.js",
   "scripts": {
   	"start": "node index.js",
-  	"haraka": "node_modules/Haraka/bin/haraka -c /Users/matt/dev/cs109/is-it-open/haraka",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Matt Geddie",
   "license": "MIT",
     "dependencies": {
-    "express": "^4.12.2",
-    "haraka": "^2.6.0"
+    "express": "^4.12.2"
   },
   "engines": {
     "node": "0.10.x"
