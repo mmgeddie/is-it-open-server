@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
   	"start": "node index.js",
+  	"haraka": "node_modules/Haraka/bin/haraka -c /Users/matt/dev/cs109/is-it-open/haraka",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Matt Geddie",
