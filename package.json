@@ -14,6 +14,7 @@
     "haraka": "file:./node_modules/Haraka"
   },
   "engines": {
-    "node": "0.10.x"
+    "node": "0.10.x",
+    "npm": "2.1.x"
   }
 }
