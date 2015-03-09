@@ -10,7 +10,8 @@
   "author": "Matt Geddie",
   "license": "MIT",
     "dependencies": {
-    "express": "^4.12.2"
+    "express": "^4.12.2",
+    "haraka": "file:./node_modules/Haraka"
   },
   "engines": {
     "node": "0.10.x"

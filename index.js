@@ -16,6 +16,6 @@ app.listen(app.get('port'), function() {
 });
 
 
-process.env.HARAKA = path.join(path.resolve('.'), 'node_modules/Haraka');
+process.env.HARAKA = path.join(path.resolve('.'), 'haraka');
 console.log("process.env.HARAKA:"+process.env.HARAKA);
 var haraka  = require('haraka');
